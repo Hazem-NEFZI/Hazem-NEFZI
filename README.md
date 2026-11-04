@@ -1,152 +1,161 @@
 <div align="center">
 
-<img src="./assets/robotics-banner.svg" width="100%" alt="Hazem NEFZI — Robotics, Artificial Intelligence and Computer Vision" />
+<img src="./assets/banniere-robotique.png" alt="Hazem NEFZI — Robotique, intelligence artificielle et vision par ordinateur" width="100%" />
 
-### Mechatronics Engineering · Robotics · Artificial Intelligence · Computer Vision
+### Élève-ingénieur en mécatronique · Robotique · Intelligence artificielle · Vision par ordinateur
 
-**Double-degree engineering student at SIGMA Clermont & ENISo**
+**Double diplôme : SIGMA Clermont (France) & ENISo (Tunisie)**
 
-*From mechanical design to intelligent robotic systems.*
+*De la conception mécanique aux systèmes robotiques intelligents.*
 
-[![Portfolio](https://img.shields.io/badge/ENGINEERING_PORTFOLIO-0B2439?style=for-the-badge&logo=githubpages&logoColor=38D8F5)](https://hazem-nefzi-robotics.kinghazem.chatgpt.site/)
-[![GitHub](https://img.shields.io/badge/EXPLORE_REPOSITORIES-102C43?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hazem-NEFZI?tab=repositories)
-[![Email](https://img.shields.io/badge/CONTACT_ME-087E97?style=for-the-badge&logo=gmail&logoColor=white)](#connect)
+[![Portfolio](https://img.shields.io/badge/DÉCOUVRIR_MON_PORTFOLIO-102B42?style=for-the-badge&logo=githubpages&logoColor=35D5EE)](https://hazem-nefzi-robotics.kinghazem.chatgpt.site/)
+[![Dépôts](https://img.shields.io/badge/EXPLORER_MES_PROJETS-0B3C55?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hazem-NEFZI?tab=repositories)
+[![Activité](https://img.shields.io/badge/VOIR_MON_ACTIVITÉ-087F95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hazem-NEFZI)
 
-**Open to a six-month end-of-studies internship from 15 March 2027**
+**À la recherche d'un stage de fin d'études de six mois à partir du 15 mars 2027.**
 
-[About](#about-me) · [Expertise](#engineering-toolkit) · [Projects](#featured-engineering-work) · [Research](#research--highlights) · [Contact](#connect)
+[Présentation](#présentation) · [Compétences](#compétences-techniques) · [Projets](#projets-dingénierie) · [Recherche](#recherche-et-parcours) · [Contact](#me-contacter)
 
 </div>
 
 ---
 
-## About me
+## Présentation
 
-I'm **Hazem NEFZI**, a double-degree mechatronics engineering student at **SIGMA Clermont (France)** and **ENISo (Tunisia)**. I enjoy turning engineering ideas into working systems that combine **robotics, mechanical design, control, computer vision and AI**.
+Je suis **Hazem NEFZI**, élève-ingénieur en **mécatronique**, en double diplôme à **SIGMA Clermont** et à l'**École nationale d'ingénieurs de Sousse (ENISo)**. Je m'intéresse à la conception de systèmes capables de **percevoir, décider et agir**, à la rencontre de la robotique, de l'automatique, de la mécanique et de l'intelligence artificielle.
 
-At **Institut Pascal**, I worked on **deformable-object manipulation**, learning from demonstration and feedback-driven robot control. I have also developed work involving **UR3e robotic arms, Intel RealSense cameras, visual servoing, calibration, machine learning and industrial inspection**.
+Lors de mon stage de recherche à l'**Institut Pascal**, j'ai travaillé sur la **manipulation robotique d'objets déformables**, l'apprentissage par démonstration et la commande avec retour visuel. Mes autres projets m'ont amené à utiliser des robots **UR3e** et **Franka**, à développer des solutions de **vision par ordinateur** et à explorer l'**inspection industrielle automatisée**.
 
-I am looking for an **industrial engineering / R&D internship** where I can contribute to robotics, intelligent automation, computer vision or AI-driven manufacturing.
+Mon objectif est de contribuer à des projets concrets en **robotique industrielle**, **R&D**, **vision** ou **IA appliquée à l'industrie**.
 
-## Engineering toolkit
+## Compétences techniques
 
 <div align="center">
 
-**Programming & AI**
+**Programmation et intelligence artificielle**
 
-![Python](https://img.shields.io/badge/Python-0B2439?style=flat-square&logo=python&logoColor=yellow)
-![C++](https://img.shields.io/badge/C++-0B2439?style=flat-square&logo=cplusplus&logoColor=7DD3FC)
-![MATLAB](https://img.shields.io/badge/MATLAB-0B2439?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-0B2439?style=flat-square&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0B2439?style=flat-square&logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/OpenCV-0B2439?style=flat-square&logo=opencv)
+![Python](https://img.shields.io/badge/Python-102B42?style=flat-square&logo=python&logoColor=FFD43B)
+![C++](https://img.shields.io/badge/C++-102B42?style=flat-square&logo=cplusplus&logoColor=70D6FF)
+![MATLAB](https://img.shields.io/badge/MATLAB-102B42?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-102B42?style=flat-square&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-102B42?style=flat-square&logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/OpenCV-102B42?style=flat-square&logo=opencv)
 
-**Robotics & simulation**
+**Robotique, perception et simulation**
 
-![ROS 2](https://img.shields.io/badge/ROS_2-0B2439?style=flat-square&logo=ros)
-![MoveIt 2](https://img.shields.io/badge/MoveIt_2-0B2439?style=flat-square)
-![Gazebo](https://img.shields.io/badge/Gazebo-0B2439?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-0B2439?style=flat-square&logo=linux)
-![Git](https://img.shields.io/badge/Git-0B2439?style=flat-square&logo=git)
-![CUDA](https://img.shields.io/badge/CUDA-0B2439?style=flat-square&logo=nvidia)
+![ROS 2](https://img.shields.io/badge/ROS_2-102B42?style=flat-square&logo=ros)
+![MoveIt 2](https://img.shields.io/badge/MoveIt_2-102B42?style=flat-square)
+![Gazebo](https://img.shields.io/badge/Gazebo-102B42?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-102B42?style=flat-square&logo=linux)
+![CUDA](https://img.shields.io/badge/CUDA-102B42?style=flat-square&logo=nvidia)
+![Git](https://img.shields.io/badge/Git-102B42?style=flat-square&logo=git)
 
-**Mechanical engineering & design**
+**Conception et ingénierie mécanique**
 
-![SolidWorks](https://img.shields.io/badge/SOLIDWORKS-0B2439?style=flat-square)
-![ANSYS](https://img.shields.io/badge/ANSYS-0B2439?style=flat-square)
-![MSC ADAMS](https://img.shields.io/badge/MSC_ADAMS-0B2439?style=flat-square)
+![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-102B42?style=flat-square)
+![ANSYS](https://img.shields.io/badge/ANSYS-102B42?style=flat-square)
+![MSC ADAMS](https://img.shields.io/badge/MSC_ADAMS-102B42?style=flat-square)
 
 </div>
 
-## Featured engineering work
+## Projets d'ingénierie
 
-> Selected work from robotics, AI, computer vision and mechatronics. Detailed public repositories and demonstrations are being prepared; the summaries below describe the projects, not necessarily open-source releases.
+> Ces présentations décrivent des travaux réalisés ou en cours de documentation. Les codes sources et démonstrations ne sont pas tous publics à ce jour.
 
 <details open>
-<summary><b>01 · Robot-assisted industrial defect detection</b> — ROS 2 · UR3e · RealSense D435</summary>
-<br/>
-A robotic inspection system using an articulated robot and RGB-D perception to inspect industrial components from multiple viewpoints. My work includes robot integration, perception, simulation and defect-detection workflows.
+<summary><b>01 · Détection de défauts par inspection robotisée</b> · ROS 2 · UR3e · RealSense D435</summary>
 
-**Focus:** industrial automation · multi-view inspection · vision–robot integration
+Développement d'une approche d'inspection industrielle associant un robot collaboratif et une caméra RGB-D, avec prise de vues sous plusieurs angles et traitement visuel des composants.
+
+**Compétences mobilisées :** ROS 2, intégration robot-capteur, perception, simulation, inspection multi-vues.
+
 </details>
 
 <details>
-<summary><b>02 · Deformable-object manipulation</b> — Learning from demonstration · shape feedback</summary>
-<br/>
-Research work at Institut Pascal on robot manipulation of deformable objects using demonstration-based motion generation and online feedback. A research manuscript is being prepared for submission; implementation details will be shared only when authorized.
+<summary><b>02 · Manipulation d'objets déformables</b> · Apprentissage par démonstration · Commande</summary>
 
-**Focus:** robot learning · feedback control · research prototyping
+Travaux de recherche à l'Institut Pascal portant sur la génération de mouvements robotiques et la correction en ligne à partir d'informations sur la forme de l'objet manipulé.
+
+**Compétences mobilisées :** robotique de manipulation, modélisation, contrôle, expérimentation.
+
+*Les éléments non publiés du projet seront partagés uniquement après autorisation.*
+
 </details>
 
 <details>
-<summary><b>03 · Bionic hand</b> — Mechanical design · mechatronics</summary>
-<br/>
-A mechatronic design project exploring the development of a bionic robotic hand, bridging CAD design, mechanisms and implementation considerations.
+<summary><b>03 · Main bionique</b> · Conception mécanique · Mécatronique</summary>
 
-**Focus:** mechanical design · prototyping · robotic mechanisms
+Projet de conception d'une main robotique, mettant en œuvre des mécanismes, de la modélisation CAO et des réflexions sur l'intégration mécatronique.
+
+**Compétences mobilisées :** SOLIDWORKS, conception de mécanismes, prototypage.
+
 </details>
 
 <details>
-<summary><b>04 · Vision-based robot control</b> — UR3e · ArUco · Visual servoing</summary>
-<br/>
-Robot control using visual feedback and image features, including challenges such as target alignment and maintaining reliable visual observations.
+<summary><b>04 · Asservissement visuel d'un bras robotique</b> · UR3e · ArUco</summary>
 
-**Focus:** robotics control · visual perception · experimental validation
+Expérimentation d'une commande de robot basée sur des informations issues de la caméra, notamment le suivi de repères visuels et les contraintes de visibilité.
+
+**Compétences mobilisées :** asservissement visuel, OpenCV, robotique, validation expérimentale.
+
 </details>
 
 <details>
-<summary><b>05 · Robust estimation with adaptive RANSAC</b> — MATLAB</summary>
-<br/>
-Implementation and validation of robust model fitting, including outlier handling, adaptive iteration strategies and reproducible simulations.
+<summary><b>05 · Estimation robuste et RANSAC adaptatif</b> · MATLAB</summary>
 
-**Focus:** numerical algorithms · mathematical modeling · visualization
+Implémentation et analyse d'algorithmes d'ajustement robuste, avec données aberrantes, stratégies d'itération adaptatives et simulations reproductibles.
+
+**Compétences mobilisées :** MATLAB, algorithmique, mathématiques appliquées, visualisation.
+
 </details>
 
 <details>
-<summary><b>06 · Industrial image segmentation with SAM 2</b> — PyTorch · Computer vision</summary>
-<br/>
-Hands-on experimentation with foundation-model segmentation for industrial imagery, using GPU-accelerated inference and visual evaluation.
+<summary><b>06 · Segmentation d'images industrielles avec SAM 2</b> · PyTorch</summary>
 
-**Focus:** AI models · industrial perception · computer vision
+Expérimentation de modèles de fondation pour la segmentation d'images industrielles, avec utilisation du GPU et analyse visuelle des résultats.
+
+**Compétences mobilisées :** vision par ordinateur, PyTorch, modèles de segmentation, environnement Linux.
+
 </details>
 
 <div align="center">
 
-[![Explore my GitHub repositories](https://img.shields.io/badge/BROWSE_PUBLIC_REPOSITORIES-0D3951?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hazem-NEFZI?tab=repositories)
+[![Voir les dépôts publics](https://img.shields.io/badge/VOIR_MES_DÉPÔTS_PUBLICS-0B3C55?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hazem-NEFZI?tab=repositories)
 
 </div>
 
-## Research & highlights
+## Recherche et parcours
 
-- **Institut Pascal — Research internship:** deformable-object manipulation and learning from demonstration.
-- **IEEE RA-L:** research manuscript in preparation for submission; not yet published.
-- **SOLIDWORKS:** CSWA and CSWP certified.
-- **TOEIC:** 965 / 990.
-- **Academic distinction:** top of semester at SIGMA Clermont (16.35 / 20).
+| Domaine | Expérience ou réalisation |
+| :--- | :--- |
+| **Recherche** | Stage à l'Institut Pascal : manipulation d'objets déformables et apprentissage par démonstration |
+| **Publication scientifique** | Manuscrit en préparation en vue d'une soumission à *IEEE Robotics and Automation Letters (RA-L)*, non encore publié |
+| **Certifications CAO** | **CSWA** et **CSWP** SOLIDWORKS |
+| **Anglais** | **TOEIC : 965 / 990** |
+| **Français** | **TCF : 448 / 699** |
+| **Résultats académiques** | Major de semestre à SIGMA Clermont |
 
-## GitHub activity
+## Activité GitHub
+
+Retrouvez mes contributions, les évolutions de mes projets et les dépôts que je rends progressivement accessibles au public.
+
+**[Consulter mes contributions et mon activité sur GitHub](https://github.com/Hazem-NEFZI)**
+
+### Perspectives et projets en développement
+
+Je poursuis le développement de projets associant **robotique, intelligence artificielle, vision par ordinateur et ingénierie mécanique**, avec un intérêt particulier pour les applications industrielles.
+
+Mes travaux s'articulent autour de la **manipulation robotique**, de la **perception intelligente**, de l'**apprentissage automatique** et de l'**optimisation des systèmes industriels**. Je cherche à concevoir des solutions fiables et à les évaluer à travers des expérimentations et des résultats concrets.
+
+## Me contacter
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hazem-NEFZI&show_icons=true&hide_border=true&theme=transparent&title_color=38D8F5&icon_color=38D8F5&text_color=8CA8BC" alt="GitHub activity statistics" />
+Intéressé par un projet en **robotique**, **IA industrielle**, **vision par ordinateur** ou **mécatronique** ? Découvrez mes réalisations et échangeons autour de nouvelles opportunités.
 
-</div>
+[![Mon portfolio](https://img.shields.io/badge/MON_PORTFOLIO-087F95?style=for-the-badge&logo=githubpages&logoColor=white)](https://hazem-nefzi-robotics.kinghazem.chatgpt.site/)
+[![Mon GitHub](https://img.shields.io/badge/MON_GITHUB-102B42?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hazem-NEFZI)
 
-<details>
-<summary><b>What am I working on next?</b></summary>
-<br/>
-I am organizing my existing engineering projects into reproducible repositories, improving project documentation and demos, and exploring applications of AI in manufacturing and robotics.
-</details>
-
-## Connect
-
-<div align="center">
-
-If your team works on **robotics, industrial AI, computer vision or advanced mechatronics**, I'd love to connect.
-
-[![GitHub](https://img.shields.io/badge/GITHUB-13273D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hazem-NEFZI)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-087E97?style=for-the-badge&logo=githubpages&logoColor=white)](https://hazem-nefzi-robotics.kinghazem.chatgpt.site/)
-
-<sub>Engineered with curiosity · Developed with precision · Driven by innovation</sub>
+<sub>Concevoir avec rigueur · Expérimenter avec curiosité · Innover avec sens</sub>
 
 </div>
