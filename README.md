@@ -131,7 +131,7 @@ Expérimentation de modèles de fondation pour la segmentation d'images industri
 | **Recherche** | Stage à l'Institut Pascal : manipulation d'objets déformables et apprentissage par démonstration |
 | **Publication scientifique** | Manuscrit en préparation en vue d'une soumission à *IEEE Robotics and Automation Letters (RA-L)*, non encore publié |
 | **Certifications CAO** | **CSWA** et **CSWP** SOLIDWORKS |
-| **Anglais** | **TOEIC : 965 / 990** |
+| **Anglais** | **TOEIC : 955 / 990** |
 | **Français** | **TCF : 448 / 699** |
 | **Résultats académiques** | Major de semestre à SIGMA Clermont |
 
