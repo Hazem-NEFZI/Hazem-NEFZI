@@ -133,7 +133,7 @@ Expérimentation de modèles de fondation pour la segmentation d'images industri
 | **Certifications CAO** | **CSWA** et **CSWP** SOLIDWORKS |
 | **Anglais** | **TOEIC : 955 / 990** |
 | **Français** | **TCF : 448 / 699** |
-| **Résultats académiques** | Major de semestre à SIGMA Clermont |
+| **Résultats académiques** | Major de promotion en deuxième année à SIGMA Clermont |
 
 ## Activité GitHub
 
